@@ -1,0 +1,16 @@
+C:\Users\beksh\source\repos\Home_work\Home_work\bin\Debug\Home_work.exe.config
+C:\Users\beksh\source\repos\Home_work\Home_work\bin\Debug\Home_work.exe
+C:\Users\beksh\source\repos\Home_work\Home_work\bin\Debug\Home_work.pdb
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.csproj.AssemblyReference.cache
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\MainWindow.g.cs
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\App.g.cs
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work_MarkupCompile.cache
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work_MarkupCompile.lref
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\MainWindow.baml
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.g.resources
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.Properties.Resources.resources
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.csproj.GenerateResource.cache
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.csproj.CoreCompileInputs.cache
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.exe
+C:\Users\beksh\source\repos\Home_work\Home_work\obj\Debug\Home_work.pdb

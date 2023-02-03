@@ -1,0 +1,16 @@
+C:\Users\beksh\source\repos\Home_work\Task_02\bin\Debug\Task_02.exe.config
+C:\Users\beksh\source\repos\Home_work\Task_02\bin\Debug\Task_02.exe
+C:\Users\beksh\source\repos\Home_work\Task_02\bin\Debug\Task_02.pdb
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.csproj.AssemblyReference.cache
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\MainWindow.g.cs
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\App.g.cs
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02_MarkupCompile.cache
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02_MarkupCompile.lref
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\MainWindow.baml
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.g.resources
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.Properties.Resources.resources
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.csproj.GenerateResource.cache
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.exe
+C:\Users\beksh\source\repos\Home_work\Task_02\obj\Debug\Task_02.pdb

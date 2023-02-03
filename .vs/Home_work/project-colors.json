@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0b09722-5769-408e-be11-8054e820d19a": {
+      "ProjectGuid": "d0b09722-5769-408e-be11-8054e820d19a",
+      "DisplayName": "Home_work",
+      "ColorIndex": 0
+    },
+    "f08bfbdf-20ee-413f-9d8c-5fa34494d215": {
+      "ProjectGuid": "f08bfbdf-20ee-413f-9d8c-5fa34494d215",
+      "DisplayName": "Task_02",
+      "ColorIndex": 1
+    },
+    "c2794dcb-90a9-410b-befc-baa8d2d4c6fe": {
+      "ProjectGuid": "c2794dcb-90a9-410b-befc-baa8d2d4c6fe",
+      "DisplayName": "Task_03",
+      "ColorIndex": 2
+    },
+    "3b881c19-37cd-4637-a8ac-af83e87a4e33": {
+      "ProjectGuid": "3b881c19-37cd-4637-a8ac-af83e87a4e33",
+      "DisplayName": "Task_04",
+      "ColorIndex": 3
+    },
+    "ff463558-2e06-4f04-b929-eba8effdbc9a": {
+      "ProjectGuid": "ff463558-2e06-4f04-b929-eba8effdbc9a",
+      "DisplayName": "Task_05",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
